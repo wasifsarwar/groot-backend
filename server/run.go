@@ -19,6 +19,5 @@ func Run() {
 	fmt.Println()
 	fmt.Println("Starting server on the port:", port, " ...")
 	log.Fatal(http.ListenAndServe(":"+port, r))
-	fmt.Println("this is heroku's port:", port)
 
 }
