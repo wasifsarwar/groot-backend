@@ -1,6 +1,6 @@
 # Groot
 
-Groot is a web application that connects to a Slack workspace and displays a list of the workspace users and their profile information
+Groot is a web application that connects to a Slack workspace and displays a list of the workspace users and their profile information. Here's an [example] of the current product that's deployed on Heroku.
 
 ### Tech
 
@@ -36,4 +36,5 @@ Head over to [groot frontend] to install the front end UI and get started with t
    [Mongo]:<https://www.mongodb.com/>
    [mongo-go-driver]:<https://github.com/mongodb/mongo-go-driver>
    [groot frontend]:<https://github.com/wasifsarwar/groot-ui>
+   [example]:<https://slackuserlist-client.herokuapp.com/>
    
